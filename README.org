@@ -1,0 +1,23 @@
+This is a repository of ed(1) configuration files and hacks.
+Other editors give you more, ed(1) gives you less.
+
+Impress your friends, drop gems like this:
+
+  export VISUAL=/bin/ed
+
+into your =~/.bashrc= or =/etc/profile=
+
+NOTE: This git repo (edconf) refers to "ED(1) CONFiguration", and in
+no way should be confused with the twitter account @ed1conf of "The
+premier conference for ed(1), the standard text editor.  Accessible at
+300 baud".
+
+I will accept pull requests, but it could well be argued that the
+beauty of ed(1) is that it needs no configuration to do (what little)
+it does (edit file) well.  Delete requests will be given full
+consideration.  Less is more, more or less.
+
+No EBCDIC characters where harmed in the making of this README.
+
+
+
